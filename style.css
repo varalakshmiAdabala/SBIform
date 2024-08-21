@@ -1,0 +1,21 @@
+body
+{
+    background : linear-gradient(rgb(0, 242, 255),white,rgb(0, 242, 255) );
+    
+}
+img
+{
+    /* display:flex;
+    align-items: center;
+    justify-content: center;
+*/
+margin-left: 400px;
+}
+button
+{
+    margin-left: 600px;
+}
+h3
+{
+    margin-left: 550px;
+}
